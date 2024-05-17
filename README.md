@@ -1,1 +1,3 @@
 # Covid_Analysis
+
+This project involves a comprehensive analysis of COVID-19 data using SQL and Tableau. The SQL queries were crafted to extract, clean, and aggregate data from a large dataset, focusing on key metrics such as total cases, total deaths, and vaccination rates. Specific queries calculate death percentages, infection rates, and vaccination progress across different locations and dates. The resulting datasets were then visualized in Tableau to create interactive dashboards. These dashboards highlight critical insights, including the highest infection counts, death percentages, and the percentage of the population infected or vaccinated, providing a clear and detailed view of the pandemic's impact globally.
